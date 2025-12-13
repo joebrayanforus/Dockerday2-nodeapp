@@ -1,5 +1,6 @@
 # Dockerday2-nodeapp
 
+
 ## visual
 
 Node.js application containerized with Docker for Day 2 practice. Includes Dockerfile, port mapping, and container deployment.
